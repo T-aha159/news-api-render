@@ -1,0 +1,39 @@
+.dataT{
+  width: 23%;
+  display: inline-block;
+  border: 2px solid black ;
+  margin: 5px;
+}
+
+button{
+  margin-left: 100px;
+  background-color: black;
+  color: white;
+  padding: 5px;
+  margin-bottom: 1px;
+}
+
+.span{
+  color: navy;
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+}
+
+img{
+  width: 100%;
+  display: flex;
+ justify-content: center;
+}
+h2{
+  text-align: center;
+}
+
+.div{
+  width: 100%;
+  /* border: 2px solid black; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
